@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
