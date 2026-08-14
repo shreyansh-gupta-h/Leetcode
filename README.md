@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0460-lfu-cache) |
 ## Tree
 |  |
 | ------- |
@@ -33,12 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
