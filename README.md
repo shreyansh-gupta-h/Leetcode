@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0460-lfu-cache) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
