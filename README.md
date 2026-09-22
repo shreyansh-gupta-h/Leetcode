@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0066-plus-one) |
 | [0658-find-k-closest-elements](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [1929-concatenation-of-array](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
