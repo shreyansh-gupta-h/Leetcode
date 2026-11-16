@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
