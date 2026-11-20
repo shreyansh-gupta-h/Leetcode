@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0066-plus-one) |
+| [0518-coin-change-ii](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1470-shuffle-the-array](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0518-coin-change-ii](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0518-coin-change-ii) |
 ## DP on Trees
 |  |
 | ------- |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/shreyansh-gupta-h/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
